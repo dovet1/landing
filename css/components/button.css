@@ -1,0 +1,13 @@
+.banner .container a{
+  text-decoration: none;
+  color: black;
+  background-color: #1EDD88;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.banner .container a:hover{
+  background-color: #BBF4DB;
+  transition: 1s ease-in-out;
+}

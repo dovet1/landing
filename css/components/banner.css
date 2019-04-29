@@ -1,0 +1,27 @@
+.banner{
+  height: 100vh;
+  margin: 0 auto;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.banner .container {
+  position: absolute;
+  bottom: 205px;
+  color: white;
+  left: 206px;
+  font-size: 18px;
+}
+
+
+.banner .container h1{
+  margin-bottom: 10px;
+}
+
+.banner .container h1{
+  margin-bottom: 10px;
+}
+
+.banner .container p{
+  margin-top: 0px;
+}
